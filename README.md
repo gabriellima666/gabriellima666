@@ -31,10 +31,10 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação! 🚀
 
 <div align="center">
   <a href="https://github.com/seu-usuario/repositorio1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=repositorio1&theme=radical" alt="Repo 1"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriellima666&repo=repositorio1&theme=radical" alt="Repo 1"/>
   </a>
   <a href="https://github.com/seu-usuario/repositorio2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=repositorio2&theme=radical" alt="Repo 2"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriellima666&repo=repositorio2&theme=radical" alt="Repo 2"/>
   </a>
 </div>
 
