@@ -1,7 +1,7 @@
 # 👋 Olá! Bem-vindo ao meu GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gabriellima666&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
 Sou um desenvolvedor apaixonado por tecnologia e inovação! 🚀
