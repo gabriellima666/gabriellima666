@@ -27,9 +27,21 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação! 🚀
 
 📚 Estudando continuamente para aprimorar minhas habilidades e explorar novas tecnologias.
 
+## 🚀 Repositórios Populares:
+
+<div align="center">
+  <a href="https://github.com/seu-usuario/repositorio1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=repositorio1&theme=radical" alt="Repo 1"/>
+  </a>
+  <a href="https://github.com/seu-usuario/repositorio2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=repositorio2&theme=radical" alt="Repo 2"/>
+  </a>
+</div>
+
 ## 📫 Como me encontrar:
 
 Se quiser bater um papo sobre tecnologia, projetos ou colaborações, sinta-se à vontade para entrar em contato!
 
 📩 **Email:** [seu-email-aqui]
 🔗 **LinkedIn:** [seu-linkedin-aqui]
+
