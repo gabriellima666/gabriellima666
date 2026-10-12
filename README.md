@@ -1,47 +1,41 @@
-# 👋 Olá! Bem-vindo ao meu GitHub
+# Olá, eu sou o Gabriel Lima de Sousa 👨‍🏫💻
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabriellima666&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
+Sou um educador em formação e desenvolvedor de software, apaixonado por unir tecnologia e ensino. Com formação em **Análise e Desenvolvimento de Sistemas** e atualmente cursando **Licenciatura em Matemática**, meu foco no GitHub é construir ferramentas e soluções que transformem o ambiente escolar, facilitem o trabalho de educadores e engajem alunos.
 
-Sou um desenvolvedor apaixonado por tecnologia e inovação! 🚀
+## 🚀 Sobre o meu foco
+- 📐 Estudo metodologias de ensino de matemática e como a tecnologia pode ser uma ponte para a aprendizagem.
+- 🛠️ Desenvolvo soluções EdTech (Tecnologia Educacional), desde jogos de lógica para alunos até sistemas de infraestrutura para escolas.
+- 🤖 Exploro ativamente o uso de Inteligência Artificial (como Gemini e NotebookLM) para criar fluxos de estudo e gerar materiais didáticos.
+- 🎸 Fora da sala de aula e dos códigos, estudo teoria musical, toco guitarra e ando de moto (Dominar 160).
 
-## 🛠️ Tecnologias e Ferramentas que Domino:
+## 📚 Projetos Educacionais em Destaque
 
-- 🌐 **Front-end:**
+*   **Automação de Avaliações (OMR - Optical Mark Recognition):** 
+    *   *O que é:* Um sistema para gerar e corrigir automaticamente gabaritos de provas via QR Code, otimizando o tempo dos professores. 
+    *   *Stack:* Python, OpenCV, FastAPI, PostgreSQL e Docker.
+*   **WinterCamp de Matemática & IMM:** 
+    *   *O que é:* Criação de materiais visuais (como álbuns de figurinhas) e desenvolvimento de um framework de avaliação de mentalidade de crescimento para alunos, estabelecendo o *Index of Mathematical Mindset* (IMM).
+*   **A Rota da Bicicleta (Pensamento Computacional):** 
+    *   *O que é:* Jogo educacional interativo criado para ensinar lógica condicional e fluxogramas para estudantes de forma visual e prática.
+    *   *Stack:* HTML, CSS e Vanilla JS.
+*   **Infraestrutura para Ambientes Escolares:**
+    *   *Avaliações Offline:* Configuração de intranet local (notebook servidor, roteadores e tablets) para coleta de avaliações em tempo real em Feiras de TCC sem acesso à internet.
+    *   *Diário de Classe em Nuvem:* Arquitetura na AWS (EC2, RDS) para suportar um sistema de controle de presença com dezenas de educadores e turmas simultâneas.
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-- 🔙 **Back-end:**
+## 🧠 Áreas de Pesquisa e Estudo
+- **Lógica Matemática:** Tabelas-verdade, conectivos lógicos e lógica de predicados aplicados ao ensino.
+- **Desenvolvimento Web:** React, Node.js e Python para criar plataformas interativas de aprendizagem.
+- **Integração de IA na Educação:** Geração de conteúdo didático dinâmico através do meu projeto *GLS TECH OS // Social Studio*.
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-- 🖥️ **Sistemas Operacionais:**
+## 🛠️ Tecnologias que utilizo nas minhas aulas e projetos
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-- 📦 **Containers:**
+| Categoria | Ferramentas |
+| :--- | :--- |
+| **Linguagens** | Python, JavaScript, HTML/CSS |
+| **Backend & Visão Computacional** | Node.js, FastAPI, OpenCV |
+| **Infra & Redes** | Docker, AWS (EC2/RDS), Configuração de Redes Locais |
+| **Educação & Produtividade** | Google Gemini, NotebookLM |
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-## 📌 Sobre mim:
-
-💡 Sempre em busca de aprendizado e novos desafios. Gosto de trabalhar em projetos inovadores que impactam positivamente as pessoas.
-
-📚 Estudando continuamente para aprimorar minhas habilidades e explorar novas tecnologias.
-
-## 🚀 Repositórios Populares:
-
-<div align="center">
-  <a href="https://github.com/seu-usuario/repositorio1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriellima666&repo=repositorio1&theme=radical" alt="Repo 1"/>
-  </a>
-  <a href="https://github.com/seu-usuario/repositorio2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriellima666&repo=repositorio2&theme=radical" alt="Repo 2"/>
-  </a>
-</div>
-
-## 📫 Como me encontrar:
-
-Se quiser bater um papo sobre tecnologia, projetos ou colaborações, sinta-se à vontade para entrar em contato!
-
-📩 **Email:** [seu-email-aqui]
-🔗 **LinkedIn:** [seu-linkedin-aqui]
-
+## 📫 Vamos conversar sobre tecnologia e educação?
+- **E-mail:** [Seu E-mail Aqui]
+- **LinkedIn:** [Link para o LinkedIn]
